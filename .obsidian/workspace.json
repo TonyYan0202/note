@@ -11,14 +11,14 @@
             "id": "0fd912e131c2e35e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Software/Git/指令.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "指令"
             }
           }
         ]
@@ -182,21 +182,22 @@
   },
   "active": "0fd912e131c2e35e",
   "lastOpenFiles": [
+    "Software/MySQL/指令.md",
+    "備忘錄.md",
+    "歡迎.md",
+    "建立鏈接.md",
     "Software/Git/指令.md",
     "OS/apt指令.md",
     "OS/Ubuntu/常用指令.md",
     "OS/PVE/硬體直通.md",
     "Pasted image 20250915232002.png",
     "Software/Certbot/指令.md",
-    "備忘錄.md",
     "OS/Linux通用指令.md",
     "OS/Ubuntu",
     "OS/PVE",
     "OS",
-    "Software/MySQL/指令.md",
     "Software/MySQL",
     "Server/Software/MySQL/指令.md",
-    "歡迎.md",
     "Software/Certbot",
     "Node.js (JavaScript)/資料型態與功能.md",
     "Server/Linux通用指令.md",
@@ -207,7 +208,6 @@
     "Server/Software",
     "Server/OS/Ubuntu",
     "Server/OS/ESXi",
-    "Server/OS/PVE",
-    "建立鏈接.md"
+    "Server/OS/PVE"
   ]
 }
