@@ -1,9 +1,18 @@
-### 快速取用
+#### 快速取用
 
 更新
 ```
 sudo apt update && sudo apt upgrade -y
 ```
+
+| 軟體      | 指令                             |
+| ------- | ------------------------------ |
+| Nginx   | ```sudo apt install nginx```   |
+| Apache2 | ```sudo apt install apache2``` |
+| UFW     | ???                            |
+|         |                                |
+
+
 
 #### 更新
 
