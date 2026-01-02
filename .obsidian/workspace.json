@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Ubuntu/常用指令.md",
+                "file": "導論/內外網關係.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用指令"
+              "title": "內外網關係"
             }
           }
         ]
@@ -180,17 +180,19 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "ce82f90b35b653be",
+  "active": "0fd912e131c2e35e",
   "lastOpenFiles": [
+    "導論/DHCP.md",
+    "導論/內外網關係.md",
+    "導論/@服用建議.md",
+    "導論/VLAN.md",
+    "導論/IP位址(IPv4).md",
+    "導論/OSI網路七層模型.md",
+    "TCP.md",
     "OS/Ubuntu/常用指令.md",
     "conflict-files-obsidian-git.md",
-    "導論/內外網關係.md",
     "導論/TCP VS UDP.md",
-    "導論/OSI網路七層模型.md",
     "導論/DNS.md",
-    "導論/IP位址(IPv4).md",
-    "導論/DHCP.md",
-    "導論/@服用建議.md",
     "導論",
     "OS/apt指令.md",
     "OS/Linux通用指令.md",
@@ -216,7 +218,6 @@
     "Server/OS/Ubuntu/常用指令.md",
     "Server/OS/PVE/硬體直通.md",
     "Server/Software",
-    "Server/OS/Ubuntu",
-    "建立鏈接.md"
+    "Server/OS/Ubuntu"
   ]
 }
