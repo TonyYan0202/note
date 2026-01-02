@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "備忘錄.md",
+                "file": "OS/Ubuntu/常用指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "備忘錄"
+              "title": "常用指令"
             }
           }
         ]
@@ -182,25 +182,25 @@
   },
   "active": "0fd912e131c2e35e",
   "lastOpenFiles": [
-    "歡迎.md",
-    "Software/UFW/指令.md",
     "OS/apt指令.md",
-    "Software/UFW",
-    "Software/MySQL/指令.md",
-    "Software/Git/指令.md",
-    "Software/Certbot/指令.md",
     "OS/Linux通用指令.md",
     "OS/Ubuntu/常用指令.md",
+    "Software/UFW/指令.md",
+    "Software/MySQL/指令.md",
+    "Node.js (JavaScript)/資料型態與功能.md",
+    "Software/Git/指令.md",
+    "備忘錄.md",
+    "歡迎.md",
+    "Software/UFW",
+    "Software/Certbot/指令.md",
     "OS/PVE/硬體直通.md",
     "Pasted image 20250915232002.png",
-    "備忘錄.md",
     "OS/Ubuntu",
     "OS/PVE",
     "OS",
     "Software/MySQL",
     "Server/Software/MySQL/指令.md",
     "Software/Certbot",
-    "Node.js (JavaScript)/資料型態與功能.md",
     "Server/Linux通用指令.md",
     "Server/Software/MySQL.md",
     "Server/Software/MySQL",
