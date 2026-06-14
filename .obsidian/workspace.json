@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e58984cb668c04a0",
+        "id": "9b6551167c0467a0",
         "type": "tabs",
         "children": [
           {
-            "id": "0fd912e131c2e35e",
+            "id": "b82cb93145122bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "導論/內外網關係.md",
+                "file": "OS/Ubuntu/基本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "內外網關係"
+              "title": "基本"
+            }
+          },
+          {
+            "id": "93906bc2e608f388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/Ubuntu/基本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基本"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,17 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/apt指令.md",
+                "file": "Software/MySQL/指令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "apt指令 的大綱"
+              "title": "指令 的大綱"
             }
           },
           {
-            "id": "ce82f90b35b653be",
+            "id": "1c77b9a0c1be3e9c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,44 +195,44 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "0fd912e131c2e35e",
+  "active": "93906bc2e608f388",
   "lastOpenFiles": [
-    "導論/DHCP.md",
-    "導論/內外網關係.md",
-    "導論/@服用建議.md",
-    "導論/VLAN.md",
-    "導論/IP位址(IPv4).md",
-    "導論/OSI網路七層模型.md",
-    "TCP.md",
+    "檔案權限處理.md",
+    "OS/Ubuntu/基本.md",
+    "OS/Linux層級.md",
     "OS/Ubuntu/常用指令.md",
-    "conflict-files-obsidian-git.md",
-    "導論/TCP VS UDP.md",
-    "導論/DNS.md",
-    "導論",
-    "OS/apt指令.md",
     "OS/Linux通用指令.md",
-    "Software/UFW/指令.md",
-    "Software/MySQL/指令.md",
+    "Node.js (JavaScript)/常用套件.md",
+    "Node.js (JavaScript)/NPM.md",
     "Node.js (JavaScript)/資料型態與功能.md",
+    "Node.js (JavaScript)/ES6+.md",
+    "導論/IP位址(IPv4).md",
+    "導論/內外網關係.md",
+    "導論/靜態路由.md",
     "Software/Git/指令.md",
+    "Software/Certbot/指令.md",
+    "建立鏈接.md",
     "備忘錄.md",
     "歡迎.md",
-    "Software/UFW",
-    "Software/Certbot/指令.md",
-    "OS/PVE/硬體直通.md",
+    "導論/@服用建議.md",
+    "導論/OSI網路七層模型.md",
+    "OS/apt指令.md",
+    "Software/MySQL/指令.md",
     "Pasted image 20250915232002.png",
+    "導論/VLAN.md",
+    "導論/TCP VS UDP.md",
+    "導論/FireWall.md",
+    "導論/DNS.md",
+    "導論/DHCP.md",
+    "導論",
+    "Node.js (JavaScript)/Vue",
+    "Software/UFW",
     "OS/Ubuntu",
     "OS/PVE",
     "OS",
     "Software/MySQL",
-    "Server/Software/MySQL/指令.md",
     "Software/Certbot",
-    "Server/Linux通用指令.md",
-    "Server/Software/MySQL.md",
     "Server/Software/MySQL",
-    "Server/OS/Ubuntu/常用指令.md",
-    "Server/OS/PVE/硬體直通.md",
-    "Server/Software",
-    "Server/OS/Ubuntu"
+    "Server/Software"
   ]
 }
